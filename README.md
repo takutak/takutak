@@ -1,16 +1,18 @@
-### Hi there 👋
+## わたしはだれか
+私の簡単な来歴をお話しいたしますと、
+#### 2023.4 京都大学大学院情報学研究科　データ科学コース　修士課程　入学
+#### 2023.3 北海道大学　工学部　卒業
+#### 2018.3 群馬県立前橋高等学校　卒業
+となります。専攻は深層学習（特にメタ学習を用いた学習）になります。
 
-<!--
-**takutak/takutak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 何があるか
+ここに何がおいてあるのかお話しします。
+- これまで勉強してきたことのお気持ちポエム
+- 日々の進捗という名の雑記
 
-Here are some ideas to get you started:
+## 何がないか
+- これまで勉強してきたことのきちんとしたまとめ（現状ポエムしか書けません...）
+- 院試の情報とか（いつか気が向いたら書くかも）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 最後に
+ゆるっと暖かく見守ってください。
